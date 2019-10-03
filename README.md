@@ -1,1 +1,2 @@
-# data-science-course
+# idatha-trainings-data-science-um-sap-next-gen
+
