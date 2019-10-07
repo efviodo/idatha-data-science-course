@@ -26,7 +26,7 @@ La lista completa de notebooks está disponible en el directorio [notebooks](not
 
 1. [01 - DS - Conceptos Basicos Jupyter Notebooks - R.ipynb](notebooks/01%20-%20DS%20-%20Conceptos%20Basicos%20Jupyter%20Notebooks%20-%20R.ipynb)
 2. [02 - DS - Introduccion a Data Science - R.ipynb](notebooks/02%20-%20DS%20-%20Introduccion%20a%20Data%20Science%20-%20R.ipynb)
-3. [03 - DS - Adquisicion de Datos - R.ipynb](notebooks/03%20-%20DS%20-%20Adquisicion%20de%20Datos%20-%R.ipynb)
+3. [03 - DS - Adquisicion de Datos - R.ipynb](notebooks/03%20-%20DS%20-%20Adquisicion%20de%20Datos%20-%20R.ipynb)
 4. [04 - DS - Comprension de los Datos - R](notebooks/04%20-%20DS%20-%20Comprension%20de%20los%20Datos%20-%20R.ipynb)
 5. [05 - DS - Visualizacion de Datos - R.ipynb](notebooks/05%20-%20DS%20-%20Visualizacion%20de%20Datos%20-%20R.ipynb)
 6. [06 - DS - Preparacion de Datos y Visualizacion - R.ipynb](notebooks/06%20-%20DS%20-%20Preparacion%20de%20Datos%20y%20Visualizacion%20-%20R.ipynb)
