@@ -6,7 +6,7 @@ Un taller que brinda al estudiante conocimientos básicos sobre Ciencia de Datos
 
 ## Organización
 
-El taller se compone de material convencional en formato slides, a través del cual el estudiante puede aprender los principales conceptos acerca de Ciencia de Datos. La lista completa de slides está disponible en el directorio [slides/](slides). A modo de gúia, se suguiere el siguiente orden de lectura:
+El taller se compone de material convencional en formato slides, a través del cual el estudiante puede aprender los principales conceptos acerca de Ciencia de Datos. La lista completa de slides está disponible en el directorio [slides](slides). A modo de gúia, se suguiere el siguiente orden de lectura:
 
 1. [01 - IDATHA - UM - Data Science - Presentacion.pdf](slides/01%20-%20IDATHA%20-%20UM%20-%20Data%20Science%20-%20Presentacion.pdf)
 2. [02 - IDATHA - UM - Data Science - Teorico Parte 1.pdf](slides/02%20-%20IDATHA%20-%20UM%20-%20Data%20Science%20-%20Teorico%20Parte%201.pdf)
@@ -20,13 +20,13 @@ Vale la pena aclarar, si bien cada notebook responde a un grupo de conceptos en 
 
 Por otro lado, el conjunto de Notebooks en **R** se desarrolló primero, siguiéndole el conjunto de notebooks portados a **Python**. Por esta razón, puede que los notebooks en **Python** contengan algun BUG Fix o mejora, introducido como parte del proceso de "portado" que aún no haya sido trasladado a la versión original en **R**. 
 
-La lista completa de notebooks está disponible en el directorio [notebooks/](notebooks). A modo de guía, se suguiere el siguiente orden de lectura:
+La lista completa de notebooks está disponible en el directorio [notebooks](notebooks). A modo de guía, se suguiere el siguiente orden de lectura:
 
 **R**
 
 1. [01 - DS - Conceptos Basicos Jupyter Notebooks - R.ipynb](notebooks/01%20-%20DS%20-%20Conceptos%20Basicos%20Jupyter%20Notebooks%20-%20R.ipynb)
 2. [02 - DS - Introduccion a Data Science - R.ipynb](notebooks/02%20-%20DS%20-%20Introduccion%20a%20Data%20Science%20-%20R.ipynb)
-3. [03 - DS - Adquisicion de Datos - R.ipynb](notebooks/03%20-%20DS%20%20Adquisicion%20de%20Datos%20-%20R.ipynb)
+3. [03 - DS - Adquisicion de Datos - R.ipynb](notebooks/03%20-%20DS%20-%20Adquisicion%20de%20Datos%20-%R.ipynb)
 4. [04 - DS - Comprension de los Datos - R](notebooks/04%20-%20DS%20-%20Comprension%20de%20los%20Datos%20-%20R.ipynb)
 5. [05 - DS - Visualizacion de Datos - R.ipynb](notebooks/05%20-%20DS%20-%20Visualizacion%20de%20Datos%20-%20R.ipynb)
 6. [06 - DS - Preparacion de Datos y Visualizacion - R.ipynb](notebooks/06%20-%20DS%20-%20Preparacion%20de%20Datos%20y%20Visualizacion%20-%20R.ipynb)
@@ -36,9 +36,9 @@ La lista completa de notebooks está disponible en el directorio [notebooks/](no
 
 1. [01 - DS - Conceptos Basicos Jupyter Notebooks - Python.ipynb](notebooks/01%20-%20DS%20-%20Conceptos%20Basicos%20Jupyter%20Notebooks%20-%20Python.ipynb)
 2. [02 - DS - Introduccion a Data Science - Python.ipynb](notebooks/02%20-%20DS%20-%20Introduccion%20a%20Data%20Science%20-%20Python.ipynb)
-3. [03 - DS - Adquisicion de Datos - Python.ipynb](notebooks/03%20-%20DS%20-%20Adquisicion%20de%20Datos%20%20Python.ipynb)
+3. [03 - DS - Adquisicion de Datos - Python.ipynb](notebooks/03%20-%20DS%20-%20Adquisicion%20de%20Datos%20-%20Python.ipynb)
 4. [04 - DS - Comprension de los Datos - Python](notebooks/04%20-%20DS%20-%20Comprension%20de%20los%20Datos%20-%20Python.ipynb)
-5. [05 - DS - Visualizacion de Datos - Python.ipynb](notebooks/05%20-%20DS%20-%20Visualizacion%20de%20Datos%20%20Python.ipynb)
+5. [05 - DS - Visualizacion de Datos - Python.ipynb](notebooks/05%20-%20DS%20-%20Visualizacion%20de%20Datos%20-%20Python.ipynb)
 6. [06 - DS - Preparacion de Datos y Visualizacion - Python.ipynb](notebooks/06%20-%20DS%20-%20Preparacion%20de%20Datos%20y%20Visualizacion%20-%20Python.ipynb)
 
 ## Ambiente de ejecución
