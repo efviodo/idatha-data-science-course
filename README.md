@@ -8,9 +8,9 @@ Un taller que brinda al estudiante conocimientos básicos sobre Ciencia de Datos
 
 El taller se compone de material convencional en formato slides, a través del cual el estudiante puede aprender los principales conceptos acerca de Ciencia de Datos. La lista completa de slides está disponible en el directorio [slides/](slides). A modo de gúia, se suguiere el siguiente orden de lectura:
 
-1. [01 - IDATHA - UM - Data Science - Presentacion.pdf](slides/01 - IDATHA - UM - Data Science - Presentacion.pdf)
-2. [02 - IDATHA - UM - Data Science - Teorico Parte 1.pdf](slides/02 - IDATHA - UM - Data Science - Teorico Parte 1.pdf)
-3. [03 - IDATHA - UM - Data Science - Teorico Parte 2.pdf](slides/03 - IDATHA - UM - Data Science - Teorico Parte 2.pdf)
+1. [01 - IDATHA - UM - Data Science - Presentacion.pdf](slides/01%20-%20IDATHA%20-%20UM%20-%20Data%20Science%20-%20Presentacion.pdf)
+2. [02 - IDATHA - UM - Data Science - Teorico Parte 1.pdf](slides/02%20-%20IDATHA%20-%20UM%20-%20Data%20Science%20-%20Teorico%20Parte%201.pdf)
+3. [03 - IDATHA - UM - Data Science - Teorico Parte 2.pdf](slides/03%20-%20IDATHA%20-%20UM%20-%20Data%20Science%20-%20Teorico%20Parte%202.pdf)
 
 De forma complementaria, el taller cuenta con material en formato Jupyter Notebooks, mediante el cual el estudiante puede ver en acción, utilizando datos de verdad, los conceptos que previamente fueron presentados a través de las slides. 
 
@@ -24,22 +24,22 @@ La lista completa de notebooks está disponible en el directorio [notebooks/](no
 
 **R**
 
-1. [01 - DS - Conceptos Basicos Jupyter Notebooks - R.ipynb](notebooks/01 - DS - Conceptos Basicos Jupyter Notebooks - R.ipynb)
-2. [02 - DS - Introduccion a Data Science - R.ipynb](notebooks/02 - DS - Introduccion a Data Science - R.ipynb)
-3. [03 - DS - Adquisicion de Datos - R.ipynb](notebooks/03 - DS - Adquisicion de Datos - R.ipynb)
-4. [04 - DS - Comprension de los Datos - R](notebooks/04 - DS - Comprension de los Datos - R.ipynb)
-5. [05 - DS - Visualizacion de Datos - R.ipynb](notebooks/05 - DS - Visualizacion de Datos - R.ipynb)
-6. [06 - DS - Preparacion de Datos y Visualizacion - R.ipynb](notebooks/06 - DS - Preparacion de Datos y Visualizacion - R.ipynb)
+1. [01 - DS - Conceptos Basicos Jupyter Notebooks - R.ipynb](notebooks/01%20-%20DS%20-%20Conceptos%20Basicos%20Jupyter%20Notebooks%20-%20R.ipynb)
+2. [02 - DS - Introduccion a Data Science - R.ipynb](notebooks/02%20-%20DS%20-%20Introduccion%20a%20Data%20Science%20-%20R.ipynb)
+3. [03 - DS - Adquisicion de Datos - R.ipynb](notebooks/03%20-%20DS%20%20Adquisicion%20de%20Datos%20-%20R.ipynb)
+4. [04 - DS - Comprension de los Datos - R](notebooks/04%20-%20DS%20-%20Comprension%20de%20los%20Datos%20-%20R.ipynb)
+5. [05 - DS - Visualizacion de Datos - R.ipynb](notebooks/05%20-%20DS%20-%20Visualizacion%20de%20Datos%20-%20R.ipynb)
+6. [06 - DS - Preparacion de Datos y Visualizacion - R.ipynb](notebooks/06%20-%20DS%20-%20Preparacion%20de%20Datos%20y%20Visualizacion%20-%20R.ipynb)
 
 
 **Python**
 
-1. [01 - DS - Conceptos Basicos Jupyter Notebooks - Python.ipynb](notebooks/01 - DS - Conceptos Basicos Jupyter Notebooks - Python.ipynb)
-2. [02 - DS - Introduccion a Data Science - Python.ipynb](notebooks/02 - DS - Introduccion a Data Science - Python.ipynb)
-3. [03 - DS - Adquisicion de Datos - Python.ipynb](notebooks/03 - DS - Adquisicion de Datos - Python.ipynb)
-4. [04 - DS - Comprension de los Datos - Python](notebooks/04 - DS - Comprension de los Datos - Python.ipynb)
-5. [05 - DS - Visualizacion de Datos - Python.ipynb](notebooks/05 - DS - Visualizacion de Datos - Python.ipynb)
-6. [06 - DS - Preparacion de Datos y Visualizacion - Python.ipynb](notebooks/06 - DS - Preparacion de Datos y Visualizacion - Python.ipynb)
+1. [01 - DS - Conceptos Basicos Jupyter Notebooks - Python.ipynb](notebooks/01%20-%20DS%20-%20Conceptos%20Basicos%20Jupyter%20Notebooks%20-%20Python.ipynb)
+2. [02 - DS - Introduccion a Data Science - Python.ipynb](notebooks/02%20-%20DS%20-%20Introduccion%20a%20Data%20Science%20-%20Python.ipynb)
+3. [03 - DS - Adquisicion de Datos - Python.ipynb](notebooks/03%20-%20DS%20-%20Adquisicion%20de%20Datos%20%20Python.ipynb)
+4. [04 - DS - Comprension de los Datos - Python](notebooks/04%20-%20DS%20-%20Comprension%20de%20los%20Datos%20-%20Python.ipynb)
+5. [05 - DS - Visualizacion de Datos - Python.ipynb](notebooks/05%20-%20DS%20-%20Visualizacion%20de%20Datos%20%20Python.ipynb)
+6. [06 - DS - Preparacion de Datos y Visualizacion - Python.ipynb](notebooks/06%20-%20DS%20-%20Preparacion%20de%20Datos%20y%20Visualizacion%20-%20Python.ipynb)
 
 ## Ambiente de ejecución
 
