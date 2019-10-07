@@ -1,0 +1,201 @@
+"","Player_name","Player_position","Player_age","Transfer_season","Transfer_from_division","Transfer_from_team","Transfer_to_division","Transfer_to_team","Transfer_fee","MV_transfer","First_time_EU","Loan_Transfer","MV_4y_high","Transfer_4y","Transfer_after"
+"1","Adrián Luna","Right Winger",19,"11/12","Primera División","Defensor","LaLiga","Espanyol","1,00 Mill. €",275000,"Yes","No",1e+06,"Yes",0
+"2","Adrián Ramos","Centre-Forward",23,"09/10","Liga Águila II","CD América","Bundesliga","Hertha BSC","2,00 Mill. €",1e+06,"Yes","No",6500000,"No",NA
+"3","Albano Bizzarri","Goalkeeper",35,"13/14","Serie A","Lazio","Serie A","Genoa","300 Th. €",NA,NA,NA,NA,NA,NA
+"4","Alejandro Alonso","Right Midfield",28,"10/11","Ligue 1","Monaco","Ligue 1","Saint-Étienne","200 Th. €",NA,NA,NA,NA,NA,NA
+"5","Alejandro González","Centre-Back",25,"13/14","Primera División","Peñarol","Serie A","Hellas Verona","2,40 Mill. €",850000,"Yes","No",2e+06,"No",NA
+"6","Alexis Rolín","Centre-Back",23,"12/13","Primera División","Nacional","Serie A","Catania","3,80 Mill. €",9e+05,"Yes","No",3500000,"Yes",1e+06
+"7","Alexis Zapata","Attacking Midfield",18,"13/14","Liga Águila II","Envigado","LaLiga","Granada CF","1,18 Mill. €",NA,"Yes","No",7e+05,"Yes",NA
+"8","Allan","Central Midfield",21,"12/13","Segunda División","Maldonado","LaLiga","Granada CF","3,00 Mill. €",3e+06,"Yes","Yes",11500000,"Yes",3e+06
+"9","Álvaro González","Central Midfield",25,"10/11","Primera División","Nacional","Serie A","Lazio","2,00 Mill. €",8e+05,"Yes","No",7500000,"No",NA
+"10","André Dias","Centre-Back",30,"09/10","Série A","São Paulo","Serie A","Lazio","2,50 Mill. €",NA,NA,NA,NA,NA,NA
+"11","Ángelo Henríquez","Centre-Forward",18,"12/13","Primera División","U. de Chile","Premier League","Man Utd","5,50 Mill. €",150000,"Yes","No",5500000,"Yes",1670000
+"12","Anselmo","Defensive Midfield",23,"12/13","Série A","Palmeiras","Serie A","Genoa","900 Th. €",9e+05,"Yes","Yes",1250000,"Yes",0
+"13","Augusto Fernández","Central Midfield",26,"12/13","Torneo Final","Vélez Sarsfield","LaLiga","Celta de Vigo","1,50 Mill. €",2500000,"No","No",8e+06,"Yes",4e+06
+"14","Bamba Anderson","Centre-Back",22,"10/11","Brazil","Tombense","Bundesliga","Bor. M'gladbach","1,50 Mill. €",2e+06,"No","Yes",3e+06,"Yes",8e+05
+"15","Braian Rodríguez","Centre-Forward",26,"13/14","Primera División","Huachipato FC","LaLiga","Real Betis","1,00 Mill. €",6e+05,"Yes","No",1e+06,"Yes",0
+"16","Brayan Perea","Centre-Forward",20,"13/14","Liga Águila II","Deportivo Cali","Serie A","Lazio","2,30 Mill. €",2e+06,"Yes","No",2800000,"No",NA
+"17","Bruno Nazário","Left Winger",18,"13/14","Brazil","Tombense","Bundesliga","TSG Hoffenheim","1,50 Mill. €",NA,"Yes","Yes",6e+05,"No",NA
+"18","Bruno Uvini","Centre-Back",21,"12/13","Série A","São Paulo","Serie A","SSC Napoli","3,00 Mill. €",1e+06,"No","Yes",3e+06,"Yes",NA
+"19","Carlinhos","Attacking Midfield",18,"12/13","Brazil","Desp. Brasil","Bundesliga","Bay. Leverkusen","Loan fee:100 Th. €",NA,NA,NA,NA,NA,NA
+"20","Carlos Labrín","Centre-Back",20,"11/12","Primera División","Huachipato FC","Serie A","Palermo","1,35 Mill. €",4e+05,"Yes","No",750000,"Yes",0
+"21","Casemiro","Defensive Midfield",21,"13/14","Série A","São Paulo","LaLiga","Real Madrid","6,00 Mill. €",6e+06,"No","Yes",3e+07,"No",NA
+"22","Charles Aránguiz","Central Midfield",24,"13/14","Primera División","U. de Chile","Serie A","Udinese Calcio","4,00 Mill. €",2200000,"Yes","No",9500000,"Yes",8e+06
+"23","Cícero","Central Midfield",25,"10/11","Brazil","Tombense","Bundesliga","VfL Wolfsburg","Loan fee:800 Th. €",NA,NA,NA,NA,NA,NA
+"24","Cicinho","Right-Back",26,"12/13","Série A","Palmeiras","LaLiga","Sevilla FC","2,00 Mill. €",2e+06,"Yes","No",4e+06,"Yes",0
+"25","Claiton","Centre-Back",28,"13/14","Serie B","Bari","Serie A","Chievo Verona","100 Th. €",NA,NA,NA,NA,NA,NA
+"26","Cristian Chávez","Left Winger",24,"11/12","Torneo Final","San Lorenzo","Serie A","SSC Napoli","1,30 Mill. €",8e+05,"Yes","Yes",NA,"Yes",0
+"27","Cristian Cuevas","Left-Back",18,"13/14","Primera División","O'Higgins","Premier League","Chelsea","1,90 Mill. €",75000,"Yes","No",1700000,"No",NA
+"28","Cristóbal Jorquera","Attacking Midfield",23,"11/12","Primera División","Colo Colo","Serie A","Genoa","1,73 Mill. €",1400000,"Yes","No",2e+06,"Yes",0
+"29","Damián Suárez","Right-Back",23,"11/12","Primera División","Defensor","LaLiga","Sporting Gijón","500 Th. €",450000,"Yes","No",3e+06,"Yes",0
+"30","Danilo","Centre-Back",27,"11/12","Brazil","Desp. Brasil","Serie A","Udinese Calcio","2,00 Mill. €",3500000,"Yes","No",7.5e+07,"No",NA
+"31","Diego Arismendi","Defensive Midfield",21,"09/10","Primera División","Nacional","Premier League","Stoke City","3,00 Mill. €",3e+05,"Yes","No",2e+06,"Yes",0
+"32","Diego Farias","Second Striker",23,"13/14","Serie A","Chievo Verona","Serie A","Sassuolo","Loan fee:550 Th. €",NA,NA,NA,NA,NA,NA
+"33","Diego Ifrán","Centre-Forward",23,"10/11","Primera División","Danubio FC","LaLiga","Real Sociedad","1,50 Mill. €",1500000,"Yes","No",2e+06,"Yes",0
+"34","Diego Laxalt","Left Midfield",20,"13/14","Primera División","Defensor","Serie A","Inter","2,30 Mill. €",2300000,"Yes","No",8e+06,"Yes",5800000
+"35","Diego Rolán","Centre-Forward",19,"12/13","Primera División","Defensor","Ligue 1","G. Bordeaux","2,80 Mill. €",2e+06,"Yes","No",8e+06,"No",NA
+"36","Dinei","Centre-Forward",25,"09/10","Série A","Athletico-PR","LaLiga","CD Tenerife","Loan fee:300 Th. €",NA,NA,NA,NA,NA,NA
+"37","Dorlan Pabón","Right Winger",24,"12/13","Liga Águila II","Atl. Nacional","Serie A","Parma","4,00 Mill. €",2800000,"Yes","No",8e+06,"Yes",4830000
+"38","Douglas Santos","Left-Back",19,"13/14","Série A","Náutico","LaLiga","Granada CF","2,30 Mill. €",1500000,"Yes","No",6e+06,"Yes",2300000
+"39","Duván Zapata","Centre-Forward",22,"13/14","Torneo Final","Estudiantes","Serie A","SSC Napoli","7,47 Mill. €",3e+06,"Yes","No",12500000,"No",NA
+"40","Eduardo Costa","Defensive Midfield",26,"09/10","Série A","São Paulo","Ligue 1","Monaco","2,50 Mill. €",1500000,"No","No",2e+06,"Yes",0
+"41","Eduardo Salvio","Right Winger",19,"09/10","Torneo Final","Lanús","LaLiga","Atlético Madrid","8,00 Mill. €",3500000,"Yes","No",2.2e+07,"Yes",1.1e+07
+"42","Eduardo Vargas","Second Striker",22,"11/12","Primera División","U. de Chile","Serie A","SSC Napoli","13,50 Mill. €",6e+06,"Yes","No",1.1e+07,"Yes",6e+06
+"43","Elias","Central Midfield",25,"10/11","Série A","Corinthians","LaLiga","Atlético Madrid","7,00 Mill. €",7e+06,"Yes","No",8500000,"Yes",8850000
+"44","Emanuel Herrera","Centre-Forward",25,"12/13","Primera División","Española","Ligue 1","Montpellier","2,50 Mill. €",1500000,"Yes","No",2500000,"Yes",0
+"45","Emiliano Alfaro","Centre-Forward",23,"11/12","Primera División","Liverpool FC","Serie A","Lazio","2,49 Mill. €",675000,"Yes","No",3e+06,"Yes",420000
+"46","Emilio Mac Eachen","Centre-Back",20,"12/13","Primera División","Peñarol","Serie A","Parma","Loan fee:300 Th. €",NA,NA,NA,NA,NA,NA
+"47","Erik Lamela","Right Winger",19,"11/12","Primera Nacional","River Plate","Serie A","AS Roma","17,00 Mill. €",5e+06,"Yes","No",3e+07,"Yes",3e+07
+"48","Ezequiel Cirigliano","Defensive Midfield",21,"13/14","Torneo Final","River Plate","Serie A","Hellas Verona","Loan fee:300 Th. €",NA,NA,NA,NA,NA,NA
+"49","Ezequiel Luna","Centre-Back",22,"09/10","Primera Nacional","Tiro Federal","LaLiga","CD Tenerife","300 Th. €",6e+05,"No","Yes",1800000,"Yes",NA
+"50","Ezequiel Muñoz","Centre-Back",19,"10/11","Torneo Final","Boca Juniors","Serie A","Palermo","5,00 Mill. €",1500000,"Yes","No",6500000,"Yes",0
+"51","Ezequiel Rescaldani","Centre-Forward",21,"13/14","Torneo Final","Vélez Sarsfield","LaLiga","Málaga CF","300 Th. €",2200000,"Yes","No",NA,"Yes",NA
+"52","Fabián Monzón","Left-Back",24,"11/12","Torneo Final","Boca Juniors","Ligue 1","OGC Nice","2,10 Mill. €",1200000,"No","No",3500000,"Yes",3300000
+"53","Fabián Orellana","Right Winger",23,"09/10","Primera División","Audax Italiano","Serie A","Udinese Calcio","3,50 Mill. €",8e+05,"Yes","No",3e+06,"Yes",NA
+"54","Facundo Roncaglia","Centre-Back",22,"09/10","Torneo Final","Boca Juniors","LaLiga","Espanyol","Loan fee:300 Th. €",NA,NA,NA,NA,NA,NA
+"55","Fágner","Right-Back",23,"12/13","Série A","Vasco da Gama","Bundesliga","VfL Wolfsburg","3,00 Mill. €",2e+06,"No","No",3e+06,"Yes",0
+"56","Federico Fernández","Centre-Back",22,"11/12","Torneo Final","Estudiantes","Serie A","SSC Napoli","3,30 Mill. €",NA,NA,NA,NA,NA,NA
+"57","Federico Rodríguez","Centre-Forward",19,"10/11","Primera División","Peñarol","Serie A","Genoa","4,20 Mill. €",3e+05,"Yes","No",3500000,"Yes",3e+06
+"58","Felipe Anderson","Left Winger",20,"13/14","Série A","Santos FC","Serie A","Lazio","7,50 Mill. €",6e+06,"Yes","No",2.5e+07,"No",NA
+"59","Felipe Mattioni","Right-Back",21,"10/11","Brazil","Maga","LaLiga","Espanyol","2,00 Mill. €",2e+06,"No","Yes",NA,"No",NA
+"60","Felipe Seymour","Defensive Midfield",23,"11/12","Primera División","U. de Chile","Serie A","Genoa","1,75 Mill. €",1500000,"Yes","No",NA,"Yes",0
+"61","Fernando Uribe","Centre-Forward",23,"10/11","Liga Águila II","Once Caldas","Serie A","Chievo Verona","750 Th. €",850000,"Yes","No",3e+06,"Yes",1500000
+"62","França","Defensive Midfield",21,"12/13","Brazil","Mirassol-SP","Bundesliga","Hannover 96","1,30 Mill. €",NA,"Yes","Yes",2e+06,"Yes",0
+"63","Francisco Silva","Defensive Midfield",27,"13/14","Primera División","CDUC","LaLiga","CA Osasuna","1,20 Mill. €",1200000,"No","Yes",2500000,"Yes",NA
+"64","Franco Sosa","Right-Back",28,"09/10","Torneo Final","Racing Club","Ligue 1","FC Lorient","800 Th. €",1500000,"Yes","No",2200000,"Yes",0
+"65","Franco Vázquez","Attacking Midfield",22,"11/12","Torneo Final","Belgrano","Serie A","Palermo","4,50 Mill. €",2500000,"Yes","No",9e+06,"Yes",1e+07
+"66","Franco Zuculini","Central Midfield",18,"09/10","Torneo Final","Racing Club","Bundesliga","TSG Hoffenheim","4,60 Mill. €",3e+06,"Yes","No",NA,"Yes",0
+"67","Gabriel","Goalkeeper",19,"12/13","Brazil","Cruzeiro B","Serie A","AC Milan","500 Th. €",3e+05,"Yes","No",2800000,"No",NA
+"68","Gabriel Paulista","Centre-Back",22,"13/14","Série A","EC Vitória","LaLiga","Villarreal","3,30 Mill. €",1e+06,"Yes","No",1.3e+07,"Yes",1.5e+07
+"69","Gabriel Peñalba","Central Midfield",24,"09/10","Torneo Final","Argentinos Jrs.","Ligue 1","FC Lorient","1,50 Mill. €",1800000,"No","No",NA,"Yes",0
+"70","Gabriel Silva","Left-Back",20,"11/12","Série A","Palmeiras","LaLiga","Granada CF","4,00 Mill. €",2500000,"Yes","No",3500000,"Yes",4e+06
+"71","Galatto","Goalkeeper",27,"10/11","Série A","Athletico-PR","LaLiga","Málaga CF","1,60 Mill. €",8e+05,"No","Yes",1e+06,"Yes",0
+"72","Gary Medel","Defensive Midfield",23,"10/11","Primera División","CDUC","LaLiga","Sevilla FC","3,00 Mill. €",5e+06,"Yes","Yes",1.3e+07,"Yes",1.3e+07
+"73","Gastón Ramírez","Attacking Midfield",19,"10/11","Primera División","Peñarol","Serie A","Bologna","3,36 Mill. €",7e+05,"Yes","No",1.5e+07,"Yes",15200000
+"74","Gil","Centre-Back",24,"11/12","Brazil","Aparecida","Ligue 1","Valenciennes FC","3,00 Mill. €",3e+06,"Yes","Yes",7500000,"Yes",3500000
+"75","Gino Peruzzi","Right-Back",21,"13/14","Torneo Final","Vélez Sarsfield","Serie A","Catania","3,72 Mill. €",3e+06,"Yes","No",4e+06,"Yes",2750000
+"76","Gonzalo Bergessio","Centre-Forward",25,"09/10","Torneo Final","San Lorenzo","Ligue 1","Saint-Étienne","6,20 Mill. €",3300000,"No","No",NA,"Yes",1900000
+"77","Guilherme Biteco","Left Midfield",18,"12/13","Brazil","Grêmio B","Bundesliga","TSG Hoffenheim","1,50 Mill. €",150000,"Yes","No",1e+06,"Yes",NA
+"78","Guillermo Burdisso","Centre-Back",21,"10/11","Primera Nacional","CA Rosario","Serie A","AS Roma","Loan fee:500 Th. €",NA,NA,NA,NA,NA,NA
+"79","Guillermo Sara","Goalkeeper",25,"13/14","Torneo Final","Rafaela","LaLiga","Real Betis","Loan fee:250 Th. €",NA,NA,NA,NA,NA,NA
+"80","Gustavo Cabral","Centre-Back",26,"12/13","Torneo Final","Arsenal FC","LaLiga","Celta de Vigo","Loan fee:500 Th. €",NA,NA,NA,NA,NA,NA
+"81","Henrique","Centre-Back",27,"13/14","Série A","Palmeiras","Serie A","SSC Napoli","4,00 Mill. €",2500000,"No","No",5e+06,"Yes",2e+06
+"82","Henrique Almeida","Centre-Forward",20,"11/12","Série A","São Paulo","LaLiga","Granada CF","Loan fee:500 Th. €",NA,NA,NA,NA,NA,NA
+"83","Henry Giménez","Centre-Forward",24,"10/11","Primera División","River Plate","Serie A","Bologna","2,00 Mill. €",1800000,"No","Yes",NA,"Yes",NA
+"84","Henry Giménez","Centre-Forward",23,"09/10","Primera División","River Plate","Serie A","Bologna","Loan fee:100 Th. €",1800000,"No","Yes",NA,"Yes",NA
+"85","Hernán Bernardello","Defensive Midfield",22,"09/10","Torneo Final","Newell's","LaLiga","UD Almería","3,00 Mill. €",2500000,"Yes","No",4500000,"Yes",NA
+"86","Hernanes","Attacking Midfield",25,"10/11","Série A","São Paulo","Serie A","Lazio","13,50 Mill. €",9e+06,"Yes","No",2.5e+07,"Yes",1.8e+07
+"87","Ignacio Fideleff","Centre-Back",22,"11/12","Torneo Final","Newell's","Serie A","SSC Napoli","2,20 Mill. €",7e+05,"Yes","No",2200000,"No",NA
+"88","Ignacio Lores","Right Winger",20,"11/12","Primera División","Defensor","Serie A","Palermo","2,80 Mill. €",4e+05,"Yes","No",2500000,"Yes",0
+"89","Ignacio Piatti","Left Winger",25,"10/11","Primera División","San Felipe","Serie A","Lecce","2,50 Mill. €",2e+06,"No","Yes",NA,"Yes",0
+"90","Ignacio Scocco","Centre-Forward",28,"13/14","Série A","Internacional","Premier League","Sunderland","3,65 Mill. €",6e+06,"No","No",NA,"Yes",3250000
+"91","Jádson","Central Midfield",19,"13/14","Série A","Botafogo","Serie A","Udinese Calcio","2,50 Mill. €",1500000,"Yes","No",NA,"Yes",NA
+"92","Javier Pastore","Attacking Midfield",20,"09/10","Torneo Final","Huracán","Serie A","Palermo","7,00 Mill. €",3e+06,"Yes","No",3e+07,"Yes",4.2e+07
+"93","Jherson Vergara","Centre-Back",19,"13/14","Liga Águila II","Quindío","Serie A","AC Milan","2,00 Mill. €",2e+06,"Yes","Yes",NA,"No",NA
+"94","João Pedro","Attacking Midfield",18,"10/11","Série A","Atlético-MG","Serie A","Palermo","2,50 Mill. €",4e+05,"Yes","No",2e+06,"Yes",0
+"95","Jonas","Second Striker",26,"10/11","Série A","Grêmio","LaLiga","Valencia","1,25 Mill. €",6e+06,"Yes","No",1.2e+07,"No",NA
+"96","Jonatan Lucca","Central Midfield",18,"12/13","Brazil","Inter U20","Serie A","AS Roma","700 Th. €",NA,"Yes","No",7e+05,"Yes",NA
+"97","Jonathan","Right-Back",25,"11/12","Série A","Santos FC","Serie A","Inter","5,00 Mill. €",4500000,"Yes","No",7500000,"Yes",0
+"98","Jonny Mosquera","Defensive Midfield",22,"13/14","Liga Águila II","Envigado","Serie A","AS Livorno","Loan fee:250 Th. €",NA,NA,NA,NA,NA,NA
+"99","José María Giménez","Centre-Back",18,"13/14","Primera División","Danubio FC","LaLiga","Atlético Madrid","900 Th. €",1e+05,"Yes","No",2.8e+07,"No",NA
+"100","Juan Forlín","Centre-Back",21,"09/10","Torneo Final","Boca Juniors","LaLiga","Espanyol","4,00 Mill. €",2e+06,"No","No",4e+06,"Yes",3500000
+"101","Juan Gonzalo Lorca","Centre-Forward",24,"09/10","Primera División","Colo Colo","Ligue 1","US Boulogne","385 Th. €",6e+05,"No","Yes",NA,"Yes",0
+"102","Juan Jesus","Centre-Back",20,"11/12","Série A","Internacional","Serie A","Inter","3,80 Mill. €",3e+06,"Yes","No",1.4e+07,"Yes",8e+06
+"103","Junior Fernandes","Left Winger",24,"12/13","Primera División","U. de Chile","Bundesliga","Bay. Leverkusen","4,70 Mill. €",8e+05,"Yes","No",4500000,"Yes",2500000
+"104","Keirrison","Centre-Forward",20,"09/10","Brazil","Desp. Brasil","LaLiga","FC Barcelona","14,00 Mill. €",1.4e+07,"Yes","No",NA,"No",NA
+"105","Leandro Cabrera","Centre-Back",18,"09/10","Primera División","Defensor","LaLiga","Atlético Madrid","1,50 Mill. €",NA,"Yes"," No ",1500000,"Yes",0
+"106","Leandro Caruso","Centre-Forward",27,"09/10","Torneo Final","Godoy Cruz","Serie A","Udinese Calcio","4,00 Mill. €",1e+06,"Yes","No",2500000,"Yes",NA
+"107","Leandro Castán","Centre-Back",25,"12/13","Série A","Corinthians","Serie A","AS Roma","5,00 Mill. €",2500000,"No","No",1.4e+07,"No",NA
+"108","Leonardo Melazzi","Right Winger",21,"12/13","Primera División","Danubio FC","Serie A","Genoa","Loan fee:380 Th. €",NA,NA,NA,NA,NA,NA
+"109","Lorenzo Reyes","Defensive Midfield",22,"13/14","Primera División","Huachipato FC","LaLiga","Real Betis","900 Th. €",4e+05,"Yes","No",1800000,"Yes",0
+"110","Luan","Left Winger",20,"09/10","Série B","São Caetano","Ligue 1","Toulouse","2,50 Mill. €",2e+06,"Yes","No",NA," Yes ",3150000
+"111","Lucas Castro","Central Midfield",23,"12/13","Torneo Final","Racing Club","Serie A","Catania","2,00 Mill. €",2e+06,"Yes","No",5e+06,"Yes",3500000
+"112","Lucas Mendes","Centre-Back",22,"12/13","Série A","Coritiba FC","Ligue 1","Marseille","2,30 Mill. €",6e+05,"Yes","No",4e+06,"Yes",5e+06
+"113","Lucas Moura","Right Winger",20,"12/13","Série A","São Paulo","Ligue 1","Paris SG","40,00 Mill. €",3.5e+07,"Yes","No",3.7e+07,"No",NA
+"114","Lucas Orbán","Centre-Back",24,"13/14","Torneo Final","Tigre","Ligue 1","G. Bordeaux","3,50 Mill. €",1500000,"Yes","No",3500000,"Yes",3500000
+"115","Lucas Piazón","Left Winger",18,"11/12","Brazil","FC São Paulo B","Premier League","Chelsea","7,50 Mill. €",7500000,"Yes","No",NA,"No",NA
+"116","Luis Muriel","Centre-Forward",19,"10/11","Liga Águila II","Deportivo Cali","Serie A","Udinese Calcio","1,50 Mill. €",1500000,"Yes","No",1e+07,"Yes",1.2e+07
+"117","Maicosuel","Left Winger",26,"12/13","Série A","Botafogo","Serie A","Udinese Calcio","5,30 Mill. €",2500000,"No","No",3e+06,"Yes",3e+06
+"118","Maicosuel","Left Winger",26,"12/13","Série A","Botafogo","Serie A","Udinese Calcio","5,30 Mill. €",2e+06,"Yes","Yes",4500000,"Yes",4e+06
+"119","Maicosuel","Left Winger",23,"09/10","Brazil","Desp. Brasil","Bundesliga","TSG Hoffenheim","4,50 Mill. €",2500000,"No","No",3e+06,"Yes",3e+06
+"120","Maicosuel","Left Winger",23,"09/10","Brazil","Desp. Brasil","Bundesliga","TSG Hoffenheim","4,50 Mill. €",2e+06,"Yes","Yes",4500000,"Yes",4e+06
+"121","Marcelo Silva","Centre-Back",21,"10/11","Primera División","Danubio FC","LaLiga","UD Almería","1,30 Mill. €",550000,"Yes","No",1e+06,"Yes",0
+"122","Marco Estrada","Defensive Midfield",27,"10/11","Primera División","U. de Chile","Ligue 1","Montpellier","1,00 Mill. €",675000,"Yes","No",4e+06,"Yes",1500000
+"123","Marcos Angeleri","Centre-Back",30,"13/14","Torneo Final","Estudiantes","LaLiga","Málaga CF","230 Th. €",5e+05,"No","No",1500000,"Yes",1e+05
+"124","Marcos Angeleri","Centre-Back",30,"13/14","Torneo Final","Estudiantes","LaLiga","Málaga CF","230 Th. €",3500000,"Yes","No",NA,"Yes",0
+"125","Marcos Angeleri","Centre-Back",27,"10/11","Torneo Final","Estudiantes","Premier League","Sunderland","1,80 Mill. €",5e+05,"No","No",1500000,"Yes",1e+05
+"126","Marcos Angeleri","Centre-Back",27,"10/11","Torneo Final","Estudiantes","Premier League","Sunderland","1,80 Mill. €",3500000,"Yes","No",NA,"Yes",0
+"127","Mariano","Right-Back",25,"11/12","Série A","Fluminense","Ligue 1","G. Bordeaux","3,00 Mill. €",3500000,"Yes","No",4500000,"Yes",3500000
+"128","Mariano Andújar","Goalkeeper",25,"09/10","Torneo Final","Estudiantes","Serie A","Catania","2,20 Mill. €",3500000,"No","No",4500000,"Yes",2e+06
+"129","Marquinho","Attacking Midfield",25,"11/12","Série A","Fluminense","Serie A","AS Roma","Loan fee:250 Th. €",4500000,"No","Yes",NA,"No",NA
+"130","Marquinho","Attacking Midfield",26,"12/13","Série A","Fluminense","Serie A","AS Roma","3,50 Mill. €",4500000,"No","Yes",NA,"No",NA
+"131","Marquinhos","Centre-Back",18,"12/13","Série A","Corinthians","Serie A","AS Roma","5,70 Mill. €",750000,"No","Yes",3.5e+07,"Yes",31400000
+"132","Marquinhos","Centre-Back",18,"12/13","Série A","Corinthians","Serie A","AS Roma","Loan fee:1,50 Mill. €",750000,"No","Yes",3.5e+07,"Yes",31400000
+"133","Martín Cáceres","Centre-Back",22,"09/10","LaLiga","FC Barcelona","Serie A","Juventus","Loan fee:500 Th. €",NA,NA,NA,NA,NA,NA
+"134","Mathías Abero","Left-Back",22,"12/13","Primera División","Nacional","Serie A","Bologna","1,28 Mill. €",450000,"Yes","No",5e+05,"Yes",NA
+"135","Matías Aguirregaray","Right-Back",22,"11/12","Primera División","Wanderers","Serie A","Palermo","Loan fee:250 Th. €",NA,NA,NA,NA,NA,NA
+"136","Matías Cabrera","Central Midfield",26,"12/13","Primera División","Nacional","Serie A","Cagliari Calcio","1,50 Mill. €",6e+05,"Yes","No",1500000,"Yes",0
+"137","Matías Martínez","Centre-Back",24,"12/13","Torneo Final","Racing Club","Serie A","Siena","Loan fee:500 Th. €",NA,NA,NA,NA,NA,NA
+"138","Matías Rodríguez","Right-Back",26,"12/13","Torneo Transición","U. de Chile","Serie A","Sampdoria","3,10 Mill. €",1400000,"Yes","No",3e+06,"Yes",NA
+"139","Matías Silvestre","Centre-Back",28,"13/14","Serie A","Inter","Serie A","AC Milan","Loan fee:1,00 Mill. €",NA,NA,NA,NA,NA,NA
+"140","Matías Vecino","Central Midfield",21,"12/13","Primera División","Nacional","Serie A","Fiorentina","2,30 Mill. €",5e+05,"Yes","No",1.1e+07,"No",NA
+"141","Mauricio Sperduti","Right Winger",26,"12/13","Torneo Final","Newell's","Serie A","Palermo","250 Th. €",1300000,"Yes","No",NA,"Yes",0
+"142","Mauro Boselli","Centre-Forward",25,"10/11","Torneo Final","Estudiantes","Premier League","Wigan","3,70 Mill. €",7500000,"No","No",NA,"Yes",1750000
+"143","Mauro Formica","Attacking Midfield",22,"10/11","Torneo Final","Newell's","Premier League","Blackburn","4,00 Mill. €",3500000,"Yes","No",NA,"Yes",7e+05
+"144","Mauro Goicoechea","Goalkeeper",24,"12/13","Primera División","Danubio FC","Serie A","AS Roma","Loan fee:100 Th. €",NA,NA,NA,NA,NA,NA
+"145","Mauro Zárate","Second Striker",24,"11/12","Serie A","Lazio","Serie A","Inter","Loan fee:2,70 Mill. €",NA,NA,NA,NA,NA,NA
+"146","Maxi López","Centre-Forward",27,"11/12","Serie A","Catania","Serie A","AC Milan","Loan fee:1,50 Mill. €",NA,NA,NA,NA,NA,NA
+"147","Maxi Moralez","Attacking Midfield",24,"11/12","Torneo Final","Vélez Sarsfield","Serie A","Atalanta","5,30 Mill. €",5e+06,"No","No",NA,"Yes",NA
+"148","Milton Caraglio","Centre-Forward",24,"12/13","Torneo Transición","Rangers Talca","Serie A","Pescara","Loan fee:500 Th. €",NA,NA,NA,NA,NA,NA
+"149","Mozart","Defensive Midfield",29,"09/10","Série A","Palmeiras","Serie A","AS Livorno","370 Th. €",1800000,"No","No",NA,"No",NA
+"150","Neto","Goalkeeper",21,"10/11","Série A","Athletico-PR","Serie A","Fiorentina","3,50 Mill. €",1800000,"Yes","No",9e+06,"Yes",0
+"151","Neuton","Centre-Back",21,"11/12","Série A","Grêmio","Serie A","Udinese Calcio","3,00 Mill. €",8e+05,"Yes","No",2800000,"Yes",0
+"152","Neymar","Left Winger",21,"13/14","Série A","Santos FC","LaLiga","FC Barcelona","88,20 Mill. €",5e+07,"Yes","No",1.8e+08,"Yes",2.22e+08
+"153","Nicolás Bertolo","Left Winger",23,"09/10","Torneo Final","CA Banfield","Serie A","Palermo","2,00 Mill. €",2500000,"Yes","No",3500000,"Yes",NA
+"154","Nicolás Bianchi Arce","Centre-Back",25,"12/13","Torneo Final","San Lorenzo","Serie A","Pescara","730 Th. €",7e+05,"No","No",9e+05,"Yes",0
+"155","Nicolás Bianchi Arce","Centre-Back",25,"12/13","Torneo Final","San Lorenzo","Serie A","Pescara","730 Th. €",3e+06,"Yes","No",NA,"No",NA
+"156","Nicolás López","Centre-Forward",18,"11/12","Primera División","Nacional","Serie A","AS Roma","790 Th. €",5e+05,"Yes","No",4500000,"Yes",4e+06
+"157","Nicolás Spolli","Centre-Back",26,"09/10","Torneo Final","Newell's","Serie A","Catania","1,00 Mill. €",1400000,"Yes","No",6500000,"Yes",0
+"158","Nilmar","Centre-Forward",25,"09/10","Série A","Internacional","LaLiga","Villarreal","16,50 Mill. €",1.1e+07,"No","No",1.5e+07,"Yes",1e+07
+"159","Oscar","Attacking Midfield",20,"12/13","Série A","Internacional","Premier League","Chelsea","32,00 Mill. €",2e+07,"Yes","No",4e+07,"No",NA
+"160","Pablo Armero","Left-Back",23,"10/11","Série A","Palmeiras","Serie A","Udinese Calcio","1,20 Mill. €",3e+06,"Yes","No",10500000,"Yes",4e+06
+"161","Pablo Cáceres","Left-Back",27,"12/13","Primera División","Rangers Talca","Serie A","Torino","Loan fee:300 Th. €",3e+05,"No","No",1200000,"Yes",0
+"162","Pablo Cáceres","Left-Back",26,"11/12","Torneo Final","Tigre","LaLiga","RCD Mallorca","400 Th. €",3e+05,"No","No",1200000,"Yes",0
+"163","Pablo Ceppelini","Attacking Midfield",19,"10/11","Primera División","Peñarol","Serie A","Cagliari Calcio","2,35 Mill. €",750000,"Yes","No",3e+06,"Yes",0
+"164","Pablo Fontanello","Centre-Back",24,"09/10","Torneo Final","Tigre","Serie A","Parma","4,00 Mill. €",8e+05,"Yes","No",1500000,"Yes",NA
+"165","Pablo González","Centre-Forward",26,"11/12","Serie A","Palermo","Serie A","Siena","Loan fee:100 Th. €",NA,NA,NA,NA,NA,NA
+"166","Pablo Granoche","Centre-Forward",27,"11/12","Serie A","Chievo Verona","Serie A","Novara","Loan fee:400 Th. €",NA,NA,NA,NA,NA,NA
+"167","Pablo Pérez","Central Midfield",28,"13/14","Torneo Final","Newell's","LaLiga","Málaga CF","950 Th. €",1500000,"Yes","No",NA,"Yes",1e+06
+"168","Pablo Pintos","Right-Back",23,"10/11","Torneo Final","San Lorenzo","LaLiga","Getafe","1,40 Mill. €",1500000,"Yes","No",NA,"Yes",NA
+"169","Papu Gómez","Second Striker",22,"10/11","Torneo Final","San Lorenzo","Serie A","Catania","2,50 Mill. €",2500000,"Yes","No",1.1e+07,"Yes",7e+06
+"170","Paulinho","Central Midfield",24,"13/14","Série A","Corinthians","Premier League","Spurs","19,73 Mill. €",1.2e+07,"No","No",1.5e+07,"Yes",1.4e+07
+"171","Paulo Dybala","Second Striker",18,"12/13","Primera Nacional","Instituto AC","Serie A","Palermo","11,90 Mill. €",2e+06,"Yes","No",4.5e+07,"Yes",4e+07
+"172","Rafael","Goalkeeper",23,"13/14","Série A","Santos FC","Serie A","SSC Napoli","5,00 Mill. €",4e+06,"Yes","No",NA,"Yes",0
+"173","Rafael Santos","Centre-Back",24,"09/10","Série A","Athletico-PR","Serie A","Bologna","Loan fee:300 Th. €",NA,NA,NA,NA,NA,NA
+"174","Raphael Martinho","Left Midfield",22,"10/11","Brazil","Monte Alegre Futebol Clube (SP)","Serie A","Catania","200 Th. €",NA,"Yes","Yes",2e+06,"Yes",9e+05
+"175","Réver","Centre-Back",25,"09/10","Série A","Grêmio","Bundesliga","VfL Wolfsburg","5,00 Mill. €",5500000,"Yes","No",NA,"Yes",3e+06
+"176","Ricardo Álvarez","Attacking Midfield",23,"11/12","Torneo Final","Vélez Sarsfield","Serie A","Inter","10,50 Mill. €",3500000,"Yes","No",16500000,"Yes",10500000
+"177","Roberto Firmino","Centre-Forward",19,"10/11","Brazil","Tombense","Bundesliga","TSG Hoffenheim","4,00 Mill. €",NA,"Yes","Yes",2.5e+07,"No",NA
+"178","Rodrigo Palacio","Centre-Forward",27,"09/10","Torneo Final","Boca Juniors","Serie A","Genoa","4,90 Mill. €",9500000,"Yes","No",12500000,"Yes",10500000
+"179","Roger Carvalho","Centre-Back",25,"12/13","Brazil","Tombense","Serie A","Bologna","Loan fee:300 Th. €",NA,NA,NA,NA,NA,NA
+"180","Sandro","Defensive Midfield",21,"10/11","Série A","Internacional","Premier League","Spurs","10,00 Mill. €",9e+06,"Yes","No",1.7e+07,"Yes",7500000
+"181","Sandro Silva","Defensive Midfield",26,"10/11","Brazil","Desp. Brasil","LaLiga","Málaga CF","2,20 Mill. €",1e+06,"Yes","No",2e+06,"Yes",NA
+"182","Santiago García","Left-Back",22,"10/11","Primera Nacional","CA Rosario","Serie A","Palermo","1,60 Mill. €",3e+05,"Yes","No",2e+06,"Yes",NA
+"183","Santiago García","Left-Back",25,"13/14","Primera División","Rangers Talca","Bundesliga","Werder Bremen","Loan fee:500 Th. €",3e+05,"Yes","No",2e+06,"Yes",NA
+"184","Santiago Silva","Centre-Forward",30,"11/12","Torneo Final","Vélez Sarsfield","Serie A","Fiorentina","1,70 Mill. €",2500000,"No","No",NA,"Yes",1400000
+"185","Sebastián Coates","Centre-Back",20,"11/12","Primera División","Nacional","Premier League","Liverpool","8,00 Mill. €",2500000,"Yes","No",NA,"Yes",2800000
+"186","Sebastián Cristóforo","Central Midfield",19,"13/14","Primera División","Peñarol","LaLiga","Sevilla FC","2,25 Mill. €",6e+05,"Yes","No",2700000,"Yes",2500000
+"187","Sebastián Fernández","Second Striker",25,"10/11","Torneo Final","CA Banfield","LaLiga","Málaga CF","3,60 Mill. €",2500000,"Yes","No",3600000,"Yes",0
+"188","Silvio Romero","Centre-Forward",25,"13/14","Torneo Final","Lanús","Ligue 1","Stade Rennais","Loan fee:500 Th. €",NA,NA,NA,NA,NA,NA
+"189","Thiago Ribeiro","Left Winger",26,"12/13","Segunda División","Rentistas","Serie A","Cagliari Calcio","2,00 Mill. €",3e+06,"No","Yes",3500000,"Yes",3500000
+"190","Thiago Ribeiro","Left Winger",25,"11/12","Primera División","Rentistas","Serie A","Cagliari Calcio","Loan fee:1,50 Mill. €",3e+06,"No","Yes",3500000,"Yes",3500000
+"191","Víctor Ibarbo","Second Striker",21,"11/12","Liga Águila II","Atl. Nacional","Serie A","Cagliari Calcio","2,00 Mill. €",9e+05,"Yes","No",8500000,"No",NA
+"192","Vinícius Araújo","Centre-Forward",20,"13/14","Série A","Cruzeiro","LaLiga","Valencia","3,50 Mill. €",1e+06,"Yes","No",3500000,"Yes",0
+"193","Waldo Ponce","Centre-Back",27,"10/11","Primera División","O'Higgins","LaLiga","Racing","Loan fee:315 Th. €",NA,NA,NA,NA,NA,NA
+"194","Wallace Oliveira","Right-Back",18,"12/13","Série A","Fluminense","Premier League","Chelsea","5,40 Mill. €",2e+06,"Yes","No",7500000,"No",NA
+"195","Wellington Silva","Right Winger",18,"10/11","Série A","Fluminense","Premier League","Arsenal","4,00 Mill. €",8e+05,"Yes","No",2e+06,"Yes",3e+06
+"196","Wesley","Central Midfield",23,"10/11","Série A","Santos FC","Bundesliga","Werder Bremen","7,50 Mill. €",6e+06,"Yes","No",8e+06,"Yes",6e+06
+"197","Willians","Defensive Midfield",26,"12/13","Série A","Flamengo","Serie A","Udinese Calcio","3,00 Mill. €",3500000,"Yes","No",NA,"Yes",2e+06
+"198","Zé Eduardo","Defensive Midfield",18,"10/11","Brazil","Maga","Serie A","Parma","Loan fee:500 Th. €",NA,NA,NA,NA,NA,NA
+"199","Zé Love","Centre-Forward",23,"11/12","Série A","Santos FC","Serie A","Genoa","4,50 Mill. €",3e+06,"Yes","Yes",4e+06,"Yes",0
+"200","Zé Roberto","Left Midfield",35,"09/10","Primera División","Nacional","Bundesliga","Hamburger SV","4,00 Mill. €",4e+06,"No","Yes",NA,"Yes",0
