@@ -66,6 +66,14 @@ Tiene la ventaja de permitir las mismas funcionalidades de Jupyter Notebooks en 
 
 Más información acerca de Google Colab en [https://colab.research.google.com/notebooks/welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb)
 
+## Versiones HTML
+
+En caso que no tengas tu ambiente de trabajo configurado y no estes muy familiarizado con las herramientas de un data scientist, puedes abrir las versiones HTML de los mismos. Estas versiones tienen la desventaja que son estáticas, mostrando los resultados de la última ejecución del notebook antes de exportarlo a HTML. De todas formas son muy útiles para ver el contenido de un notebook si no tienes la necesidad de ejecutarlo.
+
+Parar abrir un notebook en HTML lo único que necesitas es un navegador web. Una vez que te descargues el proyecto ve hasta el directorio donde se encuentra el notebook y abrelo con tu navegador predeterminado.
+
+La lista completa de notebooks exportados a HTML está disponible en el directorio [notebooks/html](notebooks/html/)
+
 ## Contribuidores
 
 * Emiliano Viotti
